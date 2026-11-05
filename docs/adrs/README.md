@@ -1,0 +1,1 @@
+# Architecture Decision Records\n\nRecord context, decision, alternatives, consequences, and date. Initial decisions to document: local-first pipeline, SQS versus Kafka, and ECS versus EC2.\n

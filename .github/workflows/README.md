@@ -1,0 +1,1 @@
+# CI workflows\n\nPlanned PR pipeline: lint/format, type checks, unit tests, data/ML smoke tests, security scans, and container build.\n

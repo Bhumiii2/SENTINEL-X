@@ -1,0 +1,1 @@
+# Configurations\n\nKeep experiment and application configuration versioned and non-secret. Store credentials in environment variables or a secret manager.\n

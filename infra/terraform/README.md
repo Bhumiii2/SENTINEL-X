@@ -1,0 +1,1 @@
+# Terraform\n\nPlanned modules: network, storage, compute, secrets, monitoring, and IAM. Use least privilege, remote state locking, budget alarms, and teardown procedures.\n

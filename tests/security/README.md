@@ -1,0 +1,1 @@
+# Security tests\n\nTest authentication, authorization, rate limits, payload bounds, secret handling, and unsafe inputs.\n

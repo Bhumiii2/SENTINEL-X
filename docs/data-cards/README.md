@@ -1,0 +1,1 @@
+# Data cards\n\nRecord dataset publisher, URL, license, retrieval date, checksum, schema, row counts, label prevalence, missingness, duplicates, preprocessing, split protocol, and limitations.\n

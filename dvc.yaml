@@ -1,0 +1,11 @@
+stages:
+  # Pipeline stages will be added when dataset acquisition and preprocessing
+  # contracts are implemented. Keep raw datasets out of Git.
+  #
+  # validate:
+  #   cmd: python -m sentinel_x.datasets.validate
+  #   deps:
+  #     - src/sentinel_x/datasets
+  #     - data/raw
+  #   outs:
+  #     - data/interim/validated

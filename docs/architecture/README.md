@@ -1,0 +1,1 @@
+# Architecture\n\nDocument system context, data contracts, service boundaries, and deployment diagrams here. The canonical event schema must include provenance and must keep training labels out of inference features.\n

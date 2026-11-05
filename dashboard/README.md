@@ -1,0 +1,1 @@
+# Analyst dashboard\n\nPlanned views: overview, incident explorer, model lab, data quality, and operations. Clearly label replay and synthetic scenarios.\n

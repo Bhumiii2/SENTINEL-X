@@ -1,0 +1,1 @@
+# Integration tests\n\nTest ingestion-to-storage, queue, API, and database flows with local or ephemeral dependencies.\n

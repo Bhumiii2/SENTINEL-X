@@ -1,0 +1,1 @@
+# API\n\nPlanned authenticated endpoints: `/v1/events`, `/v1/predict`, `/v1/replay/jobs`, incident list/detail/feedback, `/v1/models`, `/healthz`, and `/readyz`.\n
